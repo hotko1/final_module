@@ -1,0 +1,5 @@
+ar_form:
+  version: 1.x
+  css:
+    theme:
+      css/ar_page.css: {}

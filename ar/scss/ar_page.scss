@@ -1,0 +1,35 @@
+.ar-form{
+  .responsive-enabled{
+    thead{
+      tr{
+        th{
+          text-align: center;
+        }
+      }
+    }
+    tbody{
+      max-width: 100%;
+      tr{
+        padding: 0;
+        td{
+          padding: 0;
+          max-width: 33px;
+          .form-item{
+            .form-number {
+              text-align: center;
+              &::-webkit-outer-spin-button{
+                -webkit-appearance: none;
+              }
+              &::-webkit-inner-spin-button{
+                -webkit-appearance: none;
+              }
+            }
+            .form-text{
+              text-align: center;
+            }
+          }
+        }
+      }
+    }
+  }
+}

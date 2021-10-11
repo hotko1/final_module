@@ -1,0 +1,27 @@
+.ar-form .responsive-enabled thead tr th {
+  text-align: center;
+}
+.ar-form .responsive-enabled tbody {
+  max-width: 100%;
+}
+.ar-form .responsive-enabled tbody tr {
+  padding: 0;
+}
+.ar-form .responsive-enabled tbody tr td {
+  padding: 0;
+  max-width: 33px;
+}
+.ar-form .responsive-enabled tbody tr td .form-item .form-number {
+  text-align: center;
+}
+.ar-form .responsive-enabled tbody tr td .form-item .form-number::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+}
+.ar-form .responsive-enabled tbody tr td .form-item .form-number::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+.ar-form .responsive-enabled tbody tr td .form-item .form-text {
+  text-align: center;
+}
+
+/*# sourceMappingURL=ar_page.css.map */

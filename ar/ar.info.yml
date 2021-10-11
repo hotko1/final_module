@@ -1,0 +1,4 @@
+name: Ar
+description: 'This module adds a form with a table.'
+type: module
+core_version_requirement: ^9

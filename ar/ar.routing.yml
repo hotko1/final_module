@@ -1,0 +1,7 @@
+ar.dissplay_form:
+  path: '/ar'
+  defaults:
+    _form: 'Drupal\ar\Form\ArForm'
+    _title: 'Form'
+  requirements:
+    _permission: 'access content'
